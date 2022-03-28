@@ -1,5 +1,29 @@
 export default [
   {
+    name: 'All Apologies',
+    link: '../assets/music/all apologies.mp4',
+  },
+  {
+    name: 'Aneurysm',
+    link: '../assets/music/aneurysm.mp4',
+  },
+  {
+    name: 'Been A Son',
+    link: '../assets/music/been a son.mp4',
+  },
+  {
+    name: 'Blew',
+    link: '../assets/music/blew.mp4',
+  },
+  {
+    name: 'Floyd The Barber',
+    link: '../assets/music/floyd the barber.mp4',
+  },
+  {
+    name: 'Holiday',
+    link: '../assets/music/holiday.mp4',
+  },
+  {
     name: 'Good Riddance',
     link: '../assets/music/good riddance.mp4',
   },
